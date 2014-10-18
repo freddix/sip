@@ -1,12 +1,13 @@
+# based on PLD Linux spec git://git.pld-linux.org/packages/.git
 Summary:	Python bindings generator for C++ class libraries
 Name:		sip
-Version:	4.14
+Version:	4.16.3
 Release:	1
 Epoch:		2
 License:	redistributable (see LICENSE)
 Group:		Development/Languages/Python
 Source0:	http://downloads.sourceforge.net/pyqt/%{name}-%{version}.tar.gz
-# Source0-md5:	9a48ad975e04ac824188840ea498ac32
+# Source0-md5:	884d60b6f17fc5b910da4665caf6fd85
 URL:		http://www.riverbankcomputing.co.uk/sip/index.php
 BuildRequires:	libstdc++-devel
 BuildRequires:	python-devel
